@@ -158,7 +158,7 @@ joblib
 
 ## Related
 
-- LinkedIn article: [I stopped trying to predict price](https://www.linkedin.com/pulse/) ← add link after publishing
+- LinkedIn article: [I stopped trying to predict price](https://www.linkedin.com/posts/zeel-kadvani-328512240_the-strategy-isnt-broken-the-environment-activity-7453427944439599104-e4WI?utm_source=share&utm_medium=member_desktop&rcm=ACoAADvgXFABt_DYxKYe7K4-mnPj1EegT9uO-4M)
 - Live deployment: MetaTrader 5, The5ers prop firm challenge
 - Strategy: Multi-pair FX mean reversion (GBPUSD, USDCAD, USDCHF) gated by this classifier
 
@@ -170,4 +170,4 @@ joblib
 Dual-degree graduate (B.Tech CS + MBA Finance), Nirma University
 Building regime-conditional algorithmic trading systems
 
-[LinkedIn](https://linkedin.com/in/zeel-kadvani) · [GitHub](https://github.com/noavailabl)
+[LinkedIn](https://www.linkedin.com/in/zeel-kadvani-328512240) · [GitHub](https://github.com/noavailabl)
